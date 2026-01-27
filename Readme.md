@@ -145,6 +145,27 @@ _Visual validation of the model's true positive vs. false positive rates._
 ((Prediction: High Risk / Safe))
     
 ```
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ayush-Shrivas">
+        <img src="https://avatars.githubusercontent.com/Ayush-Shrivas" width="80px;" alt="Ayush Shrivas"/><br />
+        <sub><b>Ayush Shrivas</b></sub>
+      </a><br />
+      <sub>**Role:** Lead Developer & Data Scientist</sub>
+       <sub>**Contribution:** Model training, GUI implementation, and Documentation.</sub>
+       <sub>**LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/laxmi911">
+        <img src="https://avatars.githubusercontent.com/laxmi911" width="80px;" alt="Laxmi Tiwari"/><br />
+        <sub><b>Laxmi Tiwari</b></sub>
+      </a><br />
+      <sub>Frontend</sub>
+    </td>
+  </tr>
+</table>
+---
 ## 👥 Collaborators
 
 - **Ayush**
