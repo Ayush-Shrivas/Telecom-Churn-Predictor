@@ -147,13 +147,13 @@ _Visual validation of the model's true positive vs. false positive rates._
 ```
 ## 👥 Collaborators
 
-**Ayush**
+- **Ayush**
 * **Role:** Lead Developer & Data Scientist
 * **Contribution:** Model training, GUI implementation, and Documentation.
 * **GitHub**: [Ayush-Shrivas](https://github.com/Ayush-Shrivas)
 * **LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)
 
-**Laxmi Tiwari**
+- **Laxmi Tiwari**
 * **Role:** Project Collaborator
 * **Contribution:** Research, Data Analysis, and Testing.
 * **GitHub**: [Laxmi-Tiwari](https://github.com/laxmi911)
