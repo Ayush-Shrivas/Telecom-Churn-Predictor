@@ -1,0 +1,4 @@
+Is Senior Citizen?,Tenure (Months),Monthly Charges ($),Contract Type,Paperless Billing?,Payment Method,output,timestamp
+true,0,,Month-to-month,Yes,Mailed check,✅ Safe. Churn Probability: 32.0%,2026-01-27 18:24:03.497849
+true,0,,Month-to-month,Yes,Mailed check,✅ Safe. Churn Probability: 32.0%,2026-01-27 18:24:05.176537
+false,22.1,150,Month-to-month,No,Credit card,✅ Safe. Churn Probability: 2.0%,2026-01-27 18:27:38.513924
