@@ -32,6 +32,8 @@ By predicting the probability of **Customer Churn** (attrition) in real-time, th
 ├── 📂 Demo Screenshots      # Images used in README
 │   ├── dashboard UI.png
 │   └── HEATMAP.png
+├── 📂 Dataset
+│   └──  data
 ├── 📄 Churn_Analysis.ipynb  # Main Project Notebook
 └── 📄 README.md             # Project Documentation
 ```
