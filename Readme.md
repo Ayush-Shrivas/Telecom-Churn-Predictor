@@ -152,9 +152,9 @@ _Visual validation of the model's true positive vs. false positive rates._
         <img src="https://avatars.githubusercontent.com/Ayush-Shrivas" width="80px;" alt="Ayush Shrivas"/><br />
         <sub><b>Ayush Shrivas</b></sub>
       </a><br />
-      <sub>**Role:** Lead Developer & Data Scientist</sub>
-       <sub>**Contribution:** Model training, GUI implementation, and Documentation.</sub>
-       <sub>**LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)</sub>
+      <sub><B>Role:</B> Lead Developer & Data Scientist</sub><Br>
+       <sub><b>Contribution:</b> Model training, GUI implementation, and Documentation.</sub><BR>
+       <sub><B>LinkedIn:</B> [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)</sub>
     </td>
     <td align="center">
       <a href="https://github.com/laxmi911">
