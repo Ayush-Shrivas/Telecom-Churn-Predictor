@@ -154,7 +154,8 @@ _Visual validation of the model's true positive vs. false positive rates._
       </a><br />
       <sub><B>Role:</B> Lead Developer & Data Scientist</sub><Br>
        <sub><b>Contribution:</b> Model training, GUI implementation, and Documentation.</sub><BR>
-       <sub><B>LinkedIn:</B> [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)</sub>
+      <sub><B>LinkedIn:</B> <a herf=https://www.linkedin.com/in/ayush-shrivas-190475299/>Ayush Shrivas</a>sub>
+       <sub><B>LinkedIn:</B> [Ayush Shrivas)(https://www.linkedin.com/in/ayush-shrivas-190475299/)</sub>
     </td>
     <td align="center">
       <a href="https://github.com/laxmi911">
