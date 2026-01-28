@@ -145,15 +145,15 @@ _Visual validation of the model's true positive vs. false positive rates._
 ((Prediction: High Risk / Safe))
     
 ```
-<table>
+<table align="centre">
   <tr>
     <td align="center">
       <a href="https://github.com/Ayush-Shrivas">
         <img src="https://avatars.githubusercontent.com/Ayush-Shrivas" width="80px;" alt="Ayush Shrivas"/><br />
         <sub><b>Ayush Shrivas</b></sub>
       </a><br />
-      <sub><B>Role:</B> Lead Developer & Data Scientist</sub><Br>
-       <sub><b>Contribution:</b> Model training, GUI implementation, and Documentation.</sub><BR>
+      <sub><B>Role:  </B> Lead Developer & Data Scientist</sub><Br>
+       <sub><b>Contribution:  </b> Model training, GUI implementation, and Documentation.</sub><BR>
       <sub> <a href="https://www.linkedin.com/in/ayush-shrivas-190475299/" target="_blank">
       Linkedin
        </a></sub>
@@ -163,8 +163,8 @@ _Visual validation of the model's true positive vs. false positive rates._
         <img src="https://avatars.githubusercontent.com/laxmi911" width="80px;" alt="Laxmi Tiwari"/><br />
         <sub><b>Laxmi Tiwari</b></sub>
       </a><br />
-      <sub><B>Role:</B>Project Collaborator</sub><br>
-       <sub><b>Contribution:</b>Research, Data Analysis, and Testing.</sub><br>
+      <sub><B>Role:  </B>Project Collaborator</sub><br>
+       <sub><b>Contribution:  </b>Research, Data Analysis, and Testing.</sub><br>
        <sub> <a href="https://www.linkedin.com/in/laxmi-tiwari-aba648322/" target="_blank">
       Linkedin
        </a></sub>
