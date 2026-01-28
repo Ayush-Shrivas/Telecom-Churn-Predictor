@@ -146,7 +146,7 @@ _Visual validation of the model's true positive vs. false positive rates._
     
 ```
 
-## Project Contributor
+## Project Contributors
 
 <div align="center">
    
