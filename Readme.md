@@ -145,8 +145,11 @@ _Visual validation of the model's true positive vs. false positive rates._
 ((Prediction: High Risk / Safe))
     
 ```
-<div align="center">
 
+## Project Contributor
+
+<div align="center">
+   
    <table align="centre">
      <tr>
        <td align="center">
