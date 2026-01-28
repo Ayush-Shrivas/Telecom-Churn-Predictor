@@ -163,22 +163,12 @@ _Visual validation of the model's true positive vs. false positive rates._
         <img src="https://avatars.githubusercontent.com/laxmi911" width="80px;" alt="Laxmi Tiwari"/><br />
         <sub><b>Laxmi Tiwari</b></sub>
       </a><br />
-      <sub>Frontend</sub>
+      <sub><B>Role:</B>Project Collaborator</sub><br>
+       <sub><b>Contribution:</b>Research, Data Analysis, and Testing.</sub><br>
+       <sub> <a href="https://www.linkedin.com/in/laxmi-tiwari-aba648322/" target="_blank">
+      Linkedin
+       </a></sub>
     </td>
   </tr>
 </table>
----
-## 👥 Collaborators
-
-- **Ayush**
-* **Role:** Lead Developer & Data Scientist
-* **Contribution:** Model training, GUI implementation, and Documentation.
-* **GitHub**: [Ayush-Shrivas](https://github.com/Ayush-Shrivas)
-* **LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)
-
-- **Laxmi Tiwari**
-* **Role:** Project Collaborator
-* **Contribution:** Research, Data Analysis, and Testing.
-* **GitHub**: [Laxmi-Tiwari](https://github.com/laxmi911)
-* * **LinkedIn**: [Laxmi Tiwari](https://www.linkedin.com/in/laxmi-tiwari-aba648322/)
 ---
